@@ -2,7 +2,8 @@
 
 <br/>
 
-A new computer science graduate from Cal Poly. My interests are in web, mobile, and game development development, particularly in frontend development and user experience design. Additionally, I have interests in system design and computer security. I thrive in collaborative environments and hope to make society better through technology.
+A new computer science graduate from Cal Poly. My interests are in web, mobile, and game development, particularly in frontend development and user experience design. Additionally, I have interests in system design and computer security. I thrive in collaborative environments and hope to make society better through technology.
+
 <br/>
 
 ### Skills
