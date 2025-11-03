@@ -45,7 +45,7 @@ A new computer science graduate from Cal Poly. My interests are in web, mobile, 
 
 <br/>
 
-<div style="display: flex; gap: 20px;">
+<div>
 <a href="https://github-readme-stats-git-main-brian-kwongs-projects.vercel.app/api?username=Brian-Kwong&show_icons=true&theme=transparent">
   <img height=200 align="center" src="https://github-readme-stats-git-main-brian-kwongs-projects.vercel.app/api?username=Brian-Kwong&show_icons=true&theme=transparent" />
 </a>
